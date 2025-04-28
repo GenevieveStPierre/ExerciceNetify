@@ -1,0 +1,16 @@
+{
+    "short_name": "ReactApp",
+    "name": "Mon exercice Netlify ",
+    "description": "Déployer une app sur Netlify.",
+   
+    "start_url": ".",
+    "background_color": "#f0f0f0",
+    "theme_color": "#0d6efd",
+    "display": "standalone",
+    "scope": "./",
+    "orientation": "portrait",
+    "id": "/",
+    "related_applications": [],
+    "prefer_related_applications": false
+  }
+  
